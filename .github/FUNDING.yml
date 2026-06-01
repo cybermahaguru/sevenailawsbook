@@ -1,0 +1,15 @@
+# GitHub Sponsor button configuration.
+# The book itself is CC-BY 4.0 and free — these channels are for readers who want
+# to support continued open-access scholarship.
+
+# Uncomment any of these if you set them up later:
+# github: [cybermahaguru]
+# patreon: advprashantmali
+# ko_fi: advprashantmali
+# buy_me_a_coffee: advprashantmali
+
+# Custom — Internet Archive Interledger payment pointer (from the IA listing)
+# and direct contact for institutional sponsorship.
+custom:
+  - "https://ilp.uphold.com/D7BwPKMQzBiD"
+  - "mailto:cyberlawconsulting@gmail.com?subject=Sponsorship%20enquiry"
