@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General discussion or scholarly debate
+    url: https://github.com/cybermahaguru/sevenailawsbook/discussions
+    about: For open conversation about the Doctrines, the Seven Laws, or AI governance generally, please use Discussions rather than Issues.
+  - name: Media enquiries, op-ed commissions, guest lectures
+    url: mailto:cyberlawconsulting@gmail.com
+    about: Email the author directly for press, syllabus adoption, or speaking requests.
+  - name: Security or DMCA disclosure
+    url: https://github.com/cybermahaguru/sevenailawsbook/blob/main/SECURITY.md
+    about: Do not file public Issues for security or copyright disputes — see the disclosure policy.
