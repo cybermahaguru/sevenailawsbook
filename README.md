@@ -134,10 +134,12 @@ Please read `CONTRIBUTING.md` before opening a PR.
 
 ## Connect with the author
 
-- **LinkedIn:** [Adv. Prashant Mali](https://www.linkedin.com/in/cyberlawconsulting)
-- **X / Twitter:** [@CyberMahaGuru](https://twitter.com/CyberMahaGuru)
-- **Email:** byfordconsulting@gmail.com
-- **Website:** https://cyberlawconsulting.com
+- **LinkedIn:** [Adv. Prashant Mali](https://www.linkedin.com/in/prashantmali)
+- **X / Twitter:** [@AdvPrashantMali](https://twitter.com/advprashantmali)
+- **Email:** cyberlawconsulting@gmail.com
+- **Website:** https://prashantmali.com
+- **Youtube Channel:** Youtube.com/@AdvPrashantMali
+- **Instagram** https://www.instagram.com/advprashantmali
 
 For media enquiries, op-ed commissions, or policy consultations, please use email.
 
