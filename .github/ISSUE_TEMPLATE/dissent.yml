@@ -1,0 +1,31 @@
+name: "Dissent / critique"
+description: Argue against a Doctrine, a Law, or a premise of the book. Reasoned disagreement is welcome and protected.
+title: "[Dissent] <what you are arguing against>"
+labels: ["dissent"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: What are you arguing against?
+      placeholder: "e.g., Mali Doctrine II; Law V on AI Personhood; the framing of the Preface"
+    validations:
+      required: true
+  - type: textarea
+    id: argument
+    attributes:
+      label: Your argument
+      description: |
+        Steelman the position you disagree with before attacking it (Mill, *On Liberty* (1859)).
+        Cite where useful. Brevity is welcome; clarity is required.
+    validations:
+      required: true
+  - type: textarea
+    id: alternative
+    attributes:
+      label: What would you propose instead?
+      description: Optional, but constructive critique lands harder than mere objection.
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources / further reading
+      placeholder: "Cases, statutes, papers, or other texts that support your view."
