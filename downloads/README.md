@@ -5,7 +5,8 @@ The book is hosted in full on the **Internet Archive** (116 MB of scanned pages,
 > **Canonical landing page:** https://archive.org/details/seven-ai-laws-the-future-of-mankind-by-prashant-mali
 
 ---
-
+| **PDF (on GitHub)** | One-click, no redirect | 1.1 MB | [Download](../book/Seven_AI_Laws_The_Future_of_Mankind_By_Prashant_Mali.pdf) |
+| **EPUB (on GitHub)** | One-click, no redirect | 615 KB | [Download](../book/Seven_AI_Laws_The_Future_of_Mankind_By_Prashant_Mali.epub) |
 ## Pick your format
 
 | Format | Best for | Size | Link |
