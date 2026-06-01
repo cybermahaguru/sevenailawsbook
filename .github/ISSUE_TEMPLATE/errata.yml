@@ -1,0 +1,40 @@
+name: "Errata — typo, broken link, citation fix"
+description: Report a small textual error in the book or repository.
+title: "[Errata] <short description>"
+labels: ["errata"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Which page, section, file, or line is affected?
+      placeholder: "e.g., PDF page 72, Part V, Law III, footnote 14"
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is wrong?
+      description: Quote the offending text. Be specific.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction
+      description: Suggest the corrected text or link.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source (if any)
+      description: For citation corrections, please provide the full reference.
+      placeholder: "Bluebook / OSCOLA / APA citation"
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I searched existing Issues and confirmed this has not been reported.
+          required: true
