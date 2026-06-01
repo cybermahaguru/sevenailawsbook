@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this book in academic work, policy commentary, or teaching, please cite it as below."
+type: book
+title: "Seven AI Laws: The Future of Mankind"
+abstract: >-
+  A constitutional blueprint for the age of machine intelligence. Written at the
+  intersection of legal scholarship, AI research, and political philosophy, the
+  book presents the Mali Doctrines and Seven Laws of Artificial Intelligence as
+  reasoned proposals for jurisdictions worldwide. Where Asimov gave plot devices,
+  this work offers governance instruments.
+authors:
+  - family-names: "Mali"
+    given-names: "Prashant"
+    name-suffix: "Ph.D."
+    affiliation: "Bombay High Court (Advocate); Tech Jurist"
+    email: "cyberlawconsulting@gmail.com"
+year: 2026
+month: 4
+publisher:
+  name: "Internet Archive (open-access publication)"
+url: "https://archive.org/details/seven-ai-laws-the-future-of-mankind-by-prashant-mali"
+repository-code: "https://github.com/cybermahaguru/sevenailawsbook"
+license: CC-BY-4.0
+keywords:
+  - artificial intelligence
+  - AI law
+  - AI governance
+  - responsible AI
+  - AI policy
+  - jurisprudence
+  - tech law
+  - cyber law
+  - Mali Doctrines
+  - Seven Laws of AI
+  - constitutional law
+  - philosophy of AI
+languages:
+  - en
+identifiers:
+  - type: url
+    value: "https://archive.org/details/seven-ai-laws-the-future-of-mankind-by-prashant-mali"
+    description: "Internet Archive landing page"
+  - type: other
+    value: "ark:/13960/s27stjsm802"
+    description: "Internet Archive ARK identifier"
+preferred-citation:
+  type: book
+  title: "Seven AI Laws: The Future of Mankind"
+  authors:
+    - family-names: "Mali"
+      given-names: "Prashant"
+  year: 2026
+  publisher:
+    name: "Internet Archive"
+  url: "https://archive.org/details/seven-ai-laws-the-future-of-mankind-by-prashant-mali"
