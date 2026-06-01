@@ -1,0 +1,44 @@
+name: "Case-law update"
+description: Propose a new judgment, statute, or regulation that strengthens, challenges, or applies one of the Doctrines or Seven Laws.
+title: "[Case-law] <case name> — <doctrine/law affected>"
+labels: ["case-law"]
+body:
+  - type: input
+    id: doctrine
+    attributes:
+      label: Which Doctrine or Law does this affect?
+      placeholder: "e.g., Mali Doctrine IV; Law III on Algorithmic Transparency"
+    validations:
+      required: true
+  - type: input
+    id: citation
+    attributes:
+      label: Full citation
+      description: Bluebook (21st ed.), OSCOLA, or APA — pick one.
+      placeholder: "e.g., State v. Pickett, 466 N.J. Super. 270 (App. Div. 2021)"
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Why is this relevant?
+      description: One paragraph. What did the court hold? How does it bear on the Doctrine or Law?
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link to judgment (if publicly available)
+      placeholder: "https://..."
+  - type: dropdown
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction
+      options:
+        - India
+        - United States
+        - United Kingdom
+        - European Union
+        - Other (please specify in description)
+    validations:
+      required: true
